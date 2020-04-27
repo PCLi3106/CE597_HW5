@@ -15,6 +15,16 @@ The error of prediction is reported with respect to different parameter of model
 The further optimization process would be taken in the following class of CE 59700.
 
 ## Homework Task:
-Split your streamflow dataset into training set and validation set. The prediction made by your model is compared to the validation set 
-split in the beginning. This procedure is known as the training process, which is popular in optimization problem. Create a function to 
-report the mean square error of your model. Fit your model with training set and change alpha value manually. Find the best model which returns the minimum MSE value. Turn in the alpha value and the MSE value you get.
+Split your streamflow dataset into training set and validation set. 
+
+The prediction made by your model is compared to the validation set split in the beginning. 
+
+This procedure is known as the training process, which is popular in optimization problem. 
+
+Create a function to report the mean square error of your model. 
+
+Fit your model with training set and change alpha value manually. 
+
+Find the best model which returns the minimum MSE value. 
+
+Turn in the alpha value and the MSE value you get.
