@@ -1,5 +1,5 @@
 # CE597_HW5
- Streamflow Forecasting by Exponential Model
+ Streamflow Forecasting by First Order Exponential Model
 ## Author: Pin-Ching Li
 ## Description:
 This repository is created for Homework 5 of CE 59700, course held at 2020 Spring semester in Purdue University.
